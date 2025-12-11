@@ -36,171 +36,59 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ## ░▒▓ CORE EXPERTISE ▓▒░
 
+<div align="center">
+
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 ### **Leadership & Strategy**
 
-<details>
-<summary><b>R&D Team Leadership</b></summary>
-
-Leading cross-functional teams of 20+ engineers across hardware, firmware, mobile, and cloud platforms
-
-</details>
-
-<details>
-<summary><b>Innovation Strategy</b></summary>
-
-Driving product vision from concept to market execution with data-driven decision making
-
-</details>
-
-<details>
-<summary><b>Technical Architecture</b></summary>
-
-Designing scalable, maintainable system architectures that support growth and innovation
-
-</details>
-
-<details>
-<summary><b>Agile Methodologies</b></summary>
-
-Implementing Scrum and lean development practices for efficient delivery cycles
-
-</details>
-
-<details>
-<summary><b>Product Development</b></summary>
-
-Managing full product lifecycle from prototyping to mass production and market launch
-
-</details>
-
-</td>
-<td valign="top" width="33%">
+| **Capability** | **Experience** |
+|----------------|----------------|
+| **R&D Team Leadership** | Leading 20+ engineer cross-functional teams |
+| **Innovation Strategy** | Product vision to market execution |
+| **Technical Architecture** | Scalable, maintainable system design |
+| **Agile Methodologies** | Scrum, lean development practices |
+| **Product Development** | Full lifecycle: prototype to mass production |
 
 ### **Cloud & Platform**
 
-<details>
-<summary><b>IoT Cloud Services</b></summary>
-
-Architecting multi-tenant cloud platforms supporting thousands of connected devices
-
-</details>
-
-<details>
-<summary><b>Microservices Architecture</b></summary>
-
-Building distributed systems with scalable, independent service components
-
-</details>
-
-<details>
-<summary><b>API Development</b></summary>
-
-Designing REST, MQTT, CoAP, and WebSocket APIs for seamless device integration
-
-</details>
-
-<details>
-<summary><b>Data Analytics</b></summary>
-
-Implementing real-time data processing pipelines for actionable insights
-
-</details>
-
-<details>
-<summary><b>DevOps & CI/CD</b></summary>
-
-Automating deployment pipelines and infrastructure management
-
-</details>
+| **Capability** | **Experience** |
+|----------------|----------------|
+| **IoT Cloud Services** | Multi-tenant architectures (1000+ devices) |
+| **Microservices** | Distributed, scalable service design |
+| **API Development** | REST, MQTT, CoAP, WebSocket |
+| **Data Analytics** | Real-time processing pipelines |
+| **DevOps & CI/CD** | Automated deployment & infrastructure |
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 ### **Embedded & Hardware**
 
-<details>
-<summary><b>PCB Design & Development</b></summary>
-
-Expert-level design using Altium and KiCad for motherboards and single-board computers
-
-</details>
-
-<details>
-<summary><b>Embedded Linux Systems</b></summary>
-
-Customizing OpenWrt, Buildroot, and Yocto for optimized IoT device firmware
-
-</details>
-
-<details>
-<summary><b>Real-time Systems</b></summary>
-
-Developing FreeRTOS and custom RTOS solutions for time-critical applications
-
-</details>
-
-<details>
-<summary><b>Firmware Development</b></summary>
-
-Low-level programming in C/C++, Rust, and Assembly for resource-constrained devices
-
-</details>
-
-<details>
-<summary><b>Production Engineering</b></summary>
-
-Optimizing designs for manufacturability and scaling to mass production
-
-</details>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td valign="top" width="50%">
+| **Capability** | **Experience** |
+|----------------|----------------|
+| **PCB Design** | Altium, KiCad (motherboards, SBCs) |
+| **Embedded Linux** | OpenWrt, Buildroot, Yocto |
+| **Real-time Systems** | FreeRTOS, custom RTOS |
+| **Firmware Development** | C/C++, Rust, Assembly |
+| **Production Engineering** | Design optimization & mass production |
 
 ### **AI & Vision Systems**
 
-<details>
-<summary><b>Computer Vision</b></summary>
-
-Implementing ANPR and face recognition systems for smart access control
-
-</details>
-
-<details>
-<summary><b>Machine Learning Integration</b></summary>
-
-Deploying edge AI models and ML pipelines for intelligent device behavior
-
-</details>
-
-</td>
-<td valign="top" width="50%">
-
-<details>
-<summary><b>Smart Camera Systems</b></summary>
-
-Integrating vision cameras with APIs and SDKs for advanced automation
-
-</details>
-
-<details>
-<summary><b>Pattern Recognition</b></summary>
-
-Building image processing pipelines for real-time object and pattern detection
-
-</details>
+| **Capability** | **Experience** |
+|----------------|----------------|
+| **Computer Vision** | ANPR, face recognition systems |
+| **ML Integration** | Edge AI, model deployment |
+| **Smart Cameras** | API/SDK integration |
+| **Pattern Recognition** | Real-time image processing |
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
