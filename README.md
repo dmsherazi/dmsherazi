@@ -3,11 +3,11 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dost%20Muhammad%20Shah&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&fontWeight=bold"/>
 
+## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ## ░▒▓ Leading IoT Innovation | Building Tomorrow's Connected World ▓▒░
 
-### ╔══════════════════════════════════════════════════════════════╗
-### ║  Head of R&D | Electronics Engineering | 15+ Years Driving Innovation  ║
-### ╚══════════════════════════════════════════════════════════════╝
+### ▸ Head of R&D | Electronics Engineering | 15+ Years Driving Innovation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmsherazi/)
 [![Website](https://img.shields.io/badge/Portfolio-dmsherazi.com-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dmsherazi.com)
@@ -26,12 +26,7 @@
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  "Transforming innovative ideas into scalable IoT solutions   ║
-║   that reshape how we interact with technology."              ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+> ### *"Transforming innovative ideas into scalable IoT solutions that reshape how we interact with technology."*
 
 </div>
 
@@ -42,8 +37,6 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 </div>
 
 ---
-
-## ═══════════════════════════════════════════════════════════════
 
 ## 🎯 ░▒▓ CORE EXPERTISE ▓▒░
 
@@ -87,8 +80,6 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ---
 
-## ═══════════════════════════════════════════════════════════════
-
 ## 🛠️ ░▒▓ TECHNOLOGY STACK ▓▒░
 
 <div align="center">
@@ -127,8 +118,6 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ---
 
-## ═══════════════════════════════════════════════════════════════
-
 ## 🌟 ░▒▓ KEY ACHIEVEMENTS & IMPACT ▓▒░
 
 <div align="center">
@@ -145,8 +134,6 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 </div>
 
 ---
-
-## ═══════════════════════════════════════════════════════════════
 
 ## 📈 ░▒▓ PROFESSIONAL JOURNEY ▓▒░
 
@@ -194,8 +181,6 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ---
 
-## ═══════════════════════════════════════════════════════════════
-
 ## 🎓 ░▒▓ EDUCATION & CONTINUOUS LEARNING ▓▒░
 
 <div align="center">
@@ -218,8 +203,6 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ---
 
-## ═══════════════════════════════════════════════════════════════
-
 ## 💼 ░▒▓ WHAT I BRING TO THE TABLE ▓▒░
 
 <div align="center">
@@ -238,8 +221,6 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 </div>
 
 ---
-
-## ═══════════════════════════════════════════════════════════════
 
 ## 🤝 ░▒▓ LET'S CONNECT & COLLABORATE ▓▒░
 
@@ -263,8 +244,6 @@ I'm passionate about **IoT innovation**, **team building**, and **creating techn
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/96878487473?text=Hello%20Dost%20Muhammad%20Shah%2C%0A%0AI%20found%20your%20profile%20on%20GitHub%20%28github.com%2Fdmsherazi%29%20and%20am%20interested%20in%20connecting%20with%20you.%0A%0AYou%20are%3A%0A-%20Head%20of%20R%26D%20%7C%20Electronics%20Engineering%0A-%20IoT%20Specialist%20with%2015%2B%20years%20experience%0A-%20Expert%20in%20Smart%20Home%2C%20Embedded%20Systems%2C%20and%20Cloud%20Architecture%0A%0AI%20would%20like%20to%20discuss%3A%0A-%20%0A%0ALooking%20forward%20to%20hearing%20from%20you.)
 
 ---
-
-## ═══════════════════════════════════════════════════════════════
 
 ## 📊 ░▒▓ GITHUB ACTIVITY ▓▒░
 
