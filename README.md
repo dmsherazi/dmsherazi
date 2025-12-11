@@ -3,8 +3,6 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dost%20Muhammad%20Shah&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&fontWeight=bold"/>
 
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## ░▒▓ Leading IoT Innovation | Building Tomorrow's Connected World ▓▒░
 
 ### ▶ Head of R&D | Electronics Engineering | 15+ Years Driving Innovation
@@ -19,8 +17,6 @@
 ---
 
 </div>
-
-## ═══════════════════════════════════════════════════════════════
 
 ## 💡 ░▒▓ VISION & LEADERSHIP ▓▒░
 
