@@ -1,0 +1,29 @@
+name: Generate GitHub Achievements
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Run daily at midnight UTC
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate GitHub Achievements SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: dmsherazi
+          outputs: |
+            dist/github-achievements.svg?palette=github-dark
+
+      - name: Push to GitHub
+        uses: endbug/add-and-commit@v9
+        with:
+          message: "Update github-achievements.svg"
+          add: "dist/github-achievements*.svg"
+          branch: output
+          committer_name: GitHub Actions
+          committer_email: actions@github.com
+
