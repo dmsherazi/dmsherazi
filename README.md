@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmsherazi/)
 [![Website](https://img.shields.io/badge/Portfolio-dmsherazi.com-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dmsherazi.com)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@dmsherazi.com?subject=Contact%20from%20GitHub%20Profile&body=Hello%20Dost%2C%0D%0A%0D%0AI%20found%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20connect%20regarding%3A%0D%0A%0D%0A-%20%0D%0A%0D%0ALooking%20forward%20to%20hearing%20from%20you.)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/96878487473?text=Hello%20Dost%20Muhammad%20Shah%2C%0A%0AI%20found%20your%20profile%20on%20GitHub%20%28github.com%2Fdmsherazi%29%20and%20am%20interested%20in%20connecting%20with%20you.%0A%0AYou%20are%3A%0A-%20Head%20of%20R%26D%20%7C%20Electronics%20Engineering%0A-%20IoT%20Specialist%20with%2015%2B%20years%20experience%0A-%20Expert%20in%20Smart%20Home%2C%20Embedded%20Systems%2C%20and%20Cloud%20Architecture%0A%0AI%20would%20like%20to%20discuss%3A%0A-%20%0A%0ALooking%20forward%20to%20hearing%20from%20you.)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/96878487473?text=Hello%20Dost%2C%0A%0AFound%20your%20GitHub%20profile%20%28github.com%2Fdmsherazi%29.%0A%0AI%20would%20like%20to%20discuss%3A%0A-%20%0A%0ALooking%20forward%20to%20connecting.)
 
 **📍 Muscat, Oman**
 
@@ -36,89 +36,138 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ## ░▒▓ CORE EXPERTISE ▓▒░
 
-<div align="center">
-
 <table>
+<tr>
+<td valign="top" width="33%">
+
+#### **🎯 Leadership & Strategy**
+
+<details>
+<summary><b>R&D Team Leadership</b></summary>
+Leading cross-functional teams of 20+ engineers across hardware, firmware, mobile, and cloud platforms
+</details>
+
+<details>
+<summary><b>Innovation Strategy</b></summary>
+Driving product vision from concept to market execution with data-driven decision making
+</details>
+
+<details>
+<summary><b>Technical Architecture</b></summary>
+Designing scalable, maintainable system architectures that support growth and innovation
+</details>
+
+<details>
+<summary><b>Agile Methodologies</b></summary>
+Implementing Scrum and lean development practices for efficient delivery cycles
+</details>
+
+<details>
+<summary><b>Product Development</b></summary>
+Managing full product lifecycle from prototyping to mass production and market launch
+</details>
+
+</td>
+<td valign="top" width="33%">
+
+#### **☁️ Cloud & Platform**
+
+<details>
+<summary><b>IoT Cloud Services</b></summary>
+Architecting multi-tenant cloud platforms supporting thousands of connected devices
+</details>
+
+<details>
+<summary><b>Microservices Architecture</b></summary>
+Building distributed systems with scalable, independent service components
+</details>
+
+<details>
+<summary><b>API Development</b></summary>
+Designing REST, MQTT, CoAP, and WebSocket APIs for seamless device integration
+</details>
+
+<details>
+<summary><b>Data Analytics</b></summary>
+Implementing real-time data processing pipelines for actionable insights
+</details>
+
+<details>
+<summary><b>DevOps & CI/CD</b></summary>
+Automating deployment pipelines and infrastructure management
+</details>
+
+</td>
+<td valign="top" width="33%">
+
+#### **🔌 Embedded & Hardware**
+
+<details>
+<summary><b>PCB Design & Development</b></summary>
+Expert-level design using Altium and KiCad for motherboards and single-board computers
+</details>
+
+<details>
+<summary><b>Embedded Linux Systems</b></summary>
+Customizing OpenWrt, Buildroot, and Yocto for optimized IoT device firmware
+</details>
+
+<details>
+<summary><b>Real-time Systems</b></summary>
+Developing FreeRTOS and custom RTOS solutions for time-critical applications
+</details>
+
+<details>
+<summary><b>Firmware Development</b></summary>
+Low-level programming in C/C++, Rust, and Assembly for resource-constrained devices
+</details>
+
+<details>
+<summary><b>Production Engineering</b></summary>
+Optimizing designs for manufacturability and scaling to mass production
+</details>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top">
+
+#### **🤖 AI & Vision Systems**
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### **Leadership & Strategy**
+<details>
+<summary><b>Computer Vision</b></summary>
+Implementing ANPR and face recognition systems for smart access control
+</details>
 
-**R&D Team Leadership**  
-Leading cross-functional teams of 20+ engineers across hardware, firmware, mobile, and cloud platforms
-
-**Innovation Strategy**  
-Driving product vision from concept to market execution with data-driven decision making
-
-**Technical Architecture**  
-Designing scalable, maintainable system architectures that support growth and innovation
-
-**Agile Methodologies**  
-Implementing Scrum and lean development practices for efficient delivery cycles
-
-**Product Development**  
-Managing full product lifecycle from prototyping to mass production and market launch
-
----
-
-### **Cloud & Platform**
-
-**IoT Cloud Services**  
-Architecting multi-tenant cloud platforms supporting thousands of connected devices
-
-**Microservices Architecture**  
-Building distributed systems with scalable, independent service components
-
-**API Development**  
-Designing REST, MQTT, CoAP, and WebSocket APIs for seamless device integration
-
-**Data Analytics**  
-Implementing real-time data processing pipelines for actionable insights
-
-**DevOps & CI/CD**  
-Automating deployment pipelines and infrastructure management
+<details>
+<summary><b>Machine Learning Integration</b></summary>
+Deploying edge AI models and ML pipelines for intelligent device behavior
+</details>
 
 </td>
 <td width="50%" valign="top">
 
-### **Embedded & Hardware**
-
-**PCB Design & Development**  
-Expert-level design using Altium and KiCad for motherboards and single-board computers
-
-**Embedded Linux Systems**  
-Customizing OpenWrt, Buildroot, and Yocto for optimized IoT device firmware
-
-**Real-time Systems**  
-Developing FreeRTOS and custom RTOS solutions for time-critical applications
-
-**Firmware Development**  
-Low-level programming in C/C++, Rust, and Assembly for resource-constrained devices
-
-**Production Engineering**  
-Optimizing designs for manufacturability and scaling to mass production
-
----
-
-### **AI & Vision Systems**
-
-**Computer Vision**  
-Implementing ANPR and face recognition systems for smart access control
-
-**Machine Learning Integration**  
-Deploying edge AI models and ML pipelines for intelligent device behavior
-
-**Smart Camera Systems**  
+<details>
+<summary><b>Smart Camera Systems</b></summary>
 Integrating vision cameras with APIs and SDKs for advanced automation
+</details>
 
-**Pattern Recognition**  
+<details>
+<summary><b>Pattern Recognition</b></summary>
 Building image processing pipelines for real-time object and pattern detection
+</details>
 
 </td>
 </tr>
 </table>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -283,7 +332,7 @@ I'm passionate about **IoT innovation**, **team building**, and **creating techn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dmsherazi/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:info@dmsherazi.com?subject=Contact%20from%20GitHub%20Profile&body=Hello%20Dost%2C%0D%0A%0D%0AI%20found%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20connect%20regarding%3A%0D%0A%0D%0A-%20%0D%0A%0D%0ALooking%20forward%20to%20hearing%20from%20you.)
 [![Website](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://dmsherazi.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/96878487473?text=Hello%20Dost%20Muhammad%20Shah%2C%0A%0AI%20found%20your%20profile%20on%20GitHub%20%28github.com%2Fdmsherazi%29%20and%20am%20interested%20in%20connecting%20with%20you.%0A%0AYou%20are%3A%0A-%20Head%20of%20R%26D%20%7C%20Electronics%20Engineering%0A-%20IoT%20Specialist%20with%2015%2B%20years%20experience%0A-%20Expert%20in%20Smart%20Home%2C%20Embedded%20Systems%2C%20and%20Cloud%20Architecture%0A%0AI%20would%20like%20to%20discuss%3A%0A-%20%0A%0ALooking%20forward%20to%20hearing%20from%20you.)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/96878487473?text=Hello%20Dost%2C%0A%0AFound%20your%20GitHub%20profile%20%28github.com%2Fdmsherazi%29.%0A%0AI%20would%20like%20to%20discuss%3A%0A-%20%0A%0ALooking%20forward%20to%20connecting.)
 
 ---
 
