@@ -11,9 +11,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmsherazi/)
 [![Website](https://img.shields.io/badge/Portfolio-dmsherazi.com-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dmsherazi.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@dmsherazi.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@dmsherazi.com?subject=Contact%20from%20GitHub%20Profile&body=Hello%20Dost%2C%0D%0A%0D%0AI%20found%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20connect%20regarding%3A%0D%0A%0D%0A-%20%0D%0A%0D%0ALooking%20forward%20to%20hearing%20from%20you.)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/96878487473?text=Hello%20Dost%20Muhammad%20Shah%2C%0A%0AI%20found%20your%20profile%20on%20GitHub%20%28github.com%2Fdmsherazi%29%20and%20am%20interested%20in%20connecting%20with%20you.%0A%0AYou%20are%3A%0A-%20Head%20of%20R%26D%20%7C%20Electronics%20Engineering%0A-%20IoT%20Specialist%20with%2015%2B%20years%20experience%0A-%20Expert%20in%20Smart%20Home%2C%20Embedded%20Systems%2C%20and%20Cloud%20Architecture%0A%0AI%20would%20like%20to%20discuss%3A%0A-%20%0A%0ALooking%20forward%20to%20hearing%20from%20you.)
 
-**📍 Muscat, Oman** | **📞 +968 78487473**
+**📍 Muscat, Oman**
 
 ---
 
@@ -257,8 +258,9 @@ I'm passionate about **IoT innovation**, **team building**, and **creating techn
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dmsherazi/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:info@dmsherazi.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:info@dmsherazi.com?subject=Contact%20from%20GitHub%20Profile&body=Hello%20Dost%2C%0D%0A%0D%0AI%20found%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20connect%20regarding%3A%0D%0A%0D%0A-%20%0D%0A%0D%0ALooking%20forward%20to%20hearing%20from%20you.)
 [![Website](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://dmsherazi.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/96878487473?text=Hello%20Dost%20Muhammad%20Shah%2C%0A%0AI%20found%20your%20profile%20on%20GitHub%20%28github.com%2Fdmsherazi%29%20and%20am%20interested%20in%20connecting%20with%20you.%0A%0AYou%20are%3A%0A-%20Head%20of%20R%26D%20%7C%20Electronics%20Engineering%0A-%20IoT%20Specialist%20with%2015%2B%20years%20experience%0A-%20Expert%20in%20Smart%20Home%2C%20Embedded%20Systems%2C%20and%20Cloud%20Architecture%0A%0AI%20would%20like%20to%20discuss%3A%0A-%20%0A%0ALooking%20forward%20to%20hearing%20from%20you.)
 
 ---
 
