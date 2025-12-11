@@ -3,9 +3,11 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dost%20Muhammad%20Shah&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&fontWeight=bold"/>
 
-## 🚀 Leading IoT Innovation | Building Tomorrow's Connected World 🚀
+## ░▒▓ Leading IoT Innovation | Building Tomorrow's Connected World ▓▒░
 
-### <b>Head of R&D | Electronics Engineering | 15+ Years Driving Innovation</b>
+### ╔══════════════════════════════════════════════════════════════╗
+### ║  Head of R&D | Electronics Engineering | 15+ Years Driving Innovation  ║
+### ╚══════════════════════════════════════════════════════════════╝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmsherazi/)
 [![Website](https://img.shields.io/badge/Portfolio-dmsherazi.com-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dmsherazi.com)
@@ -17,7 +19,9 @@
 
 </div>
 
-## 💡 Vision & Leadership
+## ═══════════════════════════════════════════════════════════════
+
+## 💡 ░▒▓ VISION & LEADERSHIP ▓▒░
 
 <div align="center">
 
@@ -33,7 +37,9 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ---
 
-## 🎯 Core Expertise
+## ═══════════════════════════════════════════════════════════════
+
+## 🎯 ░▒▓ CORE EXPERTISE ▓▒░
 
 <table>
 <tr>
@@ -75,7 +81,9 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ---
 
-## 🛠️ Technology Stack
+## ═══════════════════════════════════════════════════════════════
+
+## 🛠️ ░▒▓ TECHNOLOGY STACK ▓▒░
 
 <div align="center">
 
@@ -113,7 +121,9 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ---
 
-## 🌟 Key Achievements & Impact
+## ═══════════════════════════════════════════════════════════════
+
+## 🌟 ░▒▓ KEY ACHIEVEMENTS & IMPACT ▓▒░
 
 <div align="center">
 
@@ -130,7 +140,9 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ---
 
-## 📈 Professional Journey
+## ═══════════════════════════════════════════════════════════════
+
+## 📈 ░▒▓ PROFESSIONAL JOURNEY ▓▒░
 
 ### 🎯 <b>Head of Design & Development</b> | *2017 - Present*
 
@@ -176,7 +188,9 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ---
 
-## 🎓 Education & Continuous Learning
+## ═══════════════════════════════════════════════════════════════
+
+## 🎓 ░▒▓ EDUCATION & CONTINUOUS LEARNING ▓▒░
 
 <div align="center">
 
@@ -198,7 +212,9 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ---
 
-## 💼 What I Bring to the Table
+## ═══════════════════════════════════════════════════════════════
+
+## 💼 ░▒▓ WHAT I BRING TO THE TABLE ▓▒░
 
 <div align="center">
 
@@ -217,7 +233,9 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## ═══════════════════════════════════════════════════════════════
+
+## 🤝 ░▒▓ LET'S CONNECT & COLLABORATE ▓▒░
 
 <div align="center">
 
