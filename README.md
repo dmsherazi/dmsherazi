@@ -7,7 +7,7 @@
 
 ## ░▒▓ Leading IoT Innovation | Building Tomorrow's Connected World ▓▒░
 
-### ▸ Head of R&D | Electronics Engineering | 15+ Years Driving Innovation
+### ▶ Head of R&D | Electronics Engineering | 15+ Years Driving Innovation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmsherazi/)
 [![Website](https://img.shields.io/badge/Portfolio-dmsherazi.com-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dmsherazi.com)
