@@ -25,7 +25,12 @@
 
 <div align="center">
 
-> ### *"Transforming innovative ideas into scalable IoT solutions that reshape how we interact with technology."*
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  "Transforming innovative ideas into scalable IoT solutions   ║
+║   that reshape how we interact with technology."              ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -257,7 +262,9 @@ I'm passionate about **IoT innovation**, **team building**, and **creating techn
 
 ---
 
-## 📊 GitHub Activity
+## ═══════════════════════════════════════════════════════════════
+
+## 📊 ░▒▓ GITHUB ACTIVITY ▓▒░
 
 <!-- GitHub cards (updated URLs and cache) -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmsherazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=6366F1&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=7200)
