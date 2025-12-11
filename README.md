@@ -18,7 +18,7 @@
 
 </div>
 
-## 💡 ░▒▓ VISION & LEADERSHIP ▓▒░
+## ░▒▓ VISION & LEADERSHIP ▓▒░
 
 <div align="center">
 
@@ -34,49 +34,95 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ---
 
-## 🎯 ░▒▓ CORE EXPERTISE ▓▒░
+## ░▒▓ CORE EXPERTISE ▓▒░
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <b>🏢 Leadership & Strategy</b>
-- **R&D Team Leadership** - Cross-functional teams (20+ engineers)
-- **Innovation Strategy** - Product vision to market execution
-- **Technical Architecture** - Scalable system design
-- **Agile/Scrum** - Lean development methodologies
-- **Product Development** - Concept to mass production
+### **Leadership & Strategy**
 
-### <b>🌐 Cloud & Platform</b>
-- **IoT Cloud Services** - Multi-tenant architectures
-- **Microservices** - Distributed systems design
-- **API Development** - REST, MQTT, CoAP, WebSocket
-- **Data Analytics** - Real-time processing pipelines
-- **DevOps** - CI/CD, containerization
+**R&D Team Leadership**  
+Leading cross-functional teams of 20+ engineers across hardware, firmware, mobile, and cloud platforms
+
+**Innovation Strategy**  
+Driving product vision from concept to market execution with data-driven decision making
+
+**Technical Architecture**  
+Designing scalable, maintainable system architectures that support growth and innovation
+
+**Agile Methodologies**  
+Implementing Scrum and lean development practices for efficient delivery cycles
+
+**Product Development**  
+Managing full product lifecycle from prototyping to mass production and market launch
+
+---
+
+### **Cloud & Platform**
+
+**IoT Cloud Services**  
+Architecting multi-tenant cloud platforms supporting thousands of connected devices
+
+**Microservices Architecture**  
+Building distributed systems with scalable, independent service components
+
+**API Development**  
+Designing REST, MQTT, CoAP, and WebSocket APIs for seamless device integration
+
+**Data Analytics**  
+Implementing real-time data processing pipelines for actionable insights
+
+**DevOps & CI/CD**  
+Automating deployment pipelines and infrastructure management
 
 </td>
 <td width="50%" valign="top">
 
-### <b>🔌 Embedded & Hardware</b>
-- **PCB Design** - Altium, KiCad (motherboards, SBCs)
-- **Embedded Linux** - OpenWrt, Buildroot, Yocto
-- **Real-time Systems** - FreeRTOS, custom RTOS
-- **Firmware Development** - C/C++, Rust, Assembly
-- **Production Engineering** - Manufacturing optimization
+### **Embedded & Hardware**
 
-### <b>🤖 AI & Vision Systems</b>
-- **Computer Vision** - ANPR, face recognition
-- **ML Integration** - Edge AI, model deployment
-- **Smart Cameras** - API/SDK integration
-- **Pattern Recognition** - Image processing pipelines
+**PCB Design & Development**  
+Expert-level design using Altium and KiCad for motherboards and single-board computers
+
+**Embedded Linux Systems**  
+Customizing OpenWrt, Buildroot, and Yocto for optimized IoT device firmware
+
+**Real-time Systems**  
+Developing FreeRTOS and custom RTOS solutions for time-critical applications
+
+**Firmware Development**  
+Low-level programming in C/C++, Rust, and Assembly for resource-constrained devices
+
+**Production Engineering**  
+Optimizing designs for manufacturability and scaling to mass production
+
+---
+
+### **AI & Vision Systems**
+
+**Computer Vision**  
+Implementing ANPR and face recognition systems for smart access control
+
+**Machine Learning Integration**  
+Deploying edge AI models and ML pipelines for intelligent device behavior
+
+**Smart Camera Systems**  
+Integrating vision cameras with APIs and SDKs for advanced automation
+
+**Pattern Recognition**  
+Building image processing pipelines for real-time object and pattern detection
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 🛠️ ░▒▓ TECHNOLOGY STACK ▓▒░
+## ░▒▓ TECHNOLOGY STACK ▓▒░
 
 <div align="center">
 
@@ -114,7 +160,7 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ---
 
-## 🌟 ░▒▓ KEY ACHIEVEMENTS & IMPACT ▓▒░
+## ░▒▓ KEY ACHIEVEMENTS & IMPACT ▓▒░
 
 <div align="center">
 
@@ -131,7 +177,7 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ---
 
-## 📈 ░▒▓ PROFESSIONAL JOURNEY ▓▒░
+## ░▒▓ PROFESSIONAL JOURNEY ▓▒░
 
 ### 🎯 <b>Head of Design & Development</b> | *2017 - Present*
 
@@ -177,7 +223,7 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ---
 
-## 🎓 ░▒▓ EDUCATION & CONTINUOUS LEARNING ▓▒░
+## ░▒▓ EDUCATION & CONTINUOUS LEARNING ▓▒░
 
 <div align="center">
 
@@ -199,7 +245,7 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ---
 
-## 💼 ░▒▓ WHAT I BRING TO THE TABLE ▓▒░
+## ░▒▓ WHAT I BRING TO THE TABLE ▓▒░
 
 <div align="center">
 
@@ -218,7 +264,7 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ---
 
-## 🤝 ░▒▓ LET'S CONNECT & COLLABORATE ▓▒░
+## ░▒▓ LET'S CONNECT & COLLABORATE ▓▒░
 
 <div align="center">
 
@@ -241,16 +287,19 @@ I'm passionate about **IoT innovation**, **team building**, and **creating techn
 
 ---
 
-## 📊 ░▒▓ GITHUB ACTIVITY ▓▒░
+## ░▒▓ GITHUB ACTIVITY ▓▒░
 
-<!-- GitHub cards (updated URLs and cache) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmsherazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=6366F1&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=7200)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmsherazi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&langs_count=8&card_width=400&cache_seconds=7200)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmsherazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=6366F1&text_color=FFFFFF&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dmsherazi&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=6366F1&currStreakLabel=FFFFFF&date_format=j%20M%5B%20Y%5D&stroke=444444)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmsherazi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&langs_count=8)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmsherazi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=4F46E5&point=FFFFFF&area=true&area_color=6366F1&title_color=FFFFFF&custom_title=Contribution%20Graph&radius=8)
+![GitHub Streak](https://streak-stats.demolab.com/?user=dmsherazi&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=6366F1&currStreakLabel=FFFFFF)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmsherazi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=4F46E5&point=FFFFFF&area=true&area_color=6366F1&title_color=FFFFFF)
+
+</div>
 
 ---
 
