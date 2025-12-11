@@ -36,59 +36,32 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 
 ## ░▒▓ CORE EXPERTISE ▓▒░
 
-<div align="center">
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
 ### **Leadership & Strategy**
-
-| **Capability** | **Experience** |
-|----------------|----------------|
-| **R&D Team Leadership** | Leading 20+ engineer cross-functional teams |
-| **Innovation Strategy** | Product vision to market execution |
-| **Technical Architecture** | Scalable, maintainable system design |
-| **Agile Methodologies** | Scrum, lean development practices |
-| **Product Development** | Full lifecycle: prototype to mass production |
+- **R&D Team Leadership** - Leading cross-functional teams across hardware, firmware, mobile, and cloud platforms
+- **Innovation Strategy** - Product vision to market execution
+- **Technical Architecture** - Scalable, maintainable system design
+- **Agile Methodologies** - Scrum, lean development practices
+- **Product Development** - Full lifecycle: prototype to mass production
 
 ### **Cloud & Platform**
-
-| **Capability** | **Experience** |
-|----------------|----------------|
-| **IoT Cloud Services** | Multi-tenant architectures (1000+ devices) |
-| **Microservices** | Distributed, scalable service design |
-| **API Development** | REST, MQTT, CoAP, WebSocket |
-| **Data Analytics** | Real-time processing pipelines |
-| **DevOps & CI/CD** | Automated deployment & infrastructure |
-
-</td>
-<td valign="top" width="50%">
+- **IoT Cloud Services** - Multi-tenant architectures (1000+ devices)
+- **Microservices** - Distributed, scalable service design
+- **API Development** - REST, MQTT, CoAP, WebSocket
+- **Data Analytics** - Real-time processing pipelines
+- **DevOps & CI/CD** - Automated deployment & infrastructure
 
 ### **Embedded & Hardware**
-
-| **Capability** | **Experience** |
-|----------------|----------------|
-| **PCB Design** | Altium, KiCad (motherboards, SBCs) |
-| **Embedded Linux** | OpenWrt, Buildroot, Yocto |
-| **Real-time Systems** | FreeRTOS, custom RTOS |
-| **Firmware Development** | C/C++, Rust, Assembly |
-| **Production Engineering** | Design optimization & mass production |
+- **PCB Design** - Altium, KiCad (motherboards, SBCs)
+- **Embedded Linux** - OpenWrt, Buildroot, Yocto
+- **Real-time Systems** - FreeRTOS, custom RTOS
+- **Firmware Development** - C/C++, Rust, Assembly
+- **Production Engineering** - Design optimization & mass production
 
 ### **AI & Vision Systems**
-
-| **Capability** | **Experience** |
-|----------------|----------------|
-| **Computer Vision** | ANPR, face recognition systems |
-| **ML Integration** | Edge AI, model deployment |
-| **Smart Cameras** | API/SDK integration |
-| **Pattern Recognition** | Real-time image processing |
-
-</td>
-</tr>
-</table>
-
-</div>
+- **Computer Vision** - ANPR, face recognition systems
+- **ML Integration** - Edge AI, model deployment
+- **Smart Cameras** - API/SDK integration
+- **Pattern Recognition** - Real-time image processing
 
 ---
 
@@ -137,7 +110,7 @@ As a **strategic R&D leader** with over **15 years of expertise**, I specialize 
 | 🏆 Achievement | 📊 Impact |
 |---------------|----------|
 | **Built Scalable IoT Cloud Platform** | Core infrastructure supporting thousands of devices |
-| **Led Multi-Functional R&D Team** | 20+ engineers across hardware, firmware, mobile, cloud |
+| **Led Multi-Functional R&D Team** | Cross-functional teams across hardware, firmware, mobile, cloud |
 | **Designed Smart Home Gateway** | Wi-Fi mesh, multi-room audio, face recognition integration |
 | **Mass Production Expertise** | Successfully scaled complex PCBs with international partners |
 | **Zigbee Firmware Innovation** | Custom algorithms optimizing network performance |
@@ -254,22 +227,6 @@ I'm passionate about **IoT innovation**, **team building**, and **creating techn
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:info@dmsherazi.com?subject=Contact%20from%20GitHub%20Profile&body=Hello%20Dost%2C%0D%0A%0D%0AI%20found%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20connect%20regarding%3A%0D%0A%0D%0A-%20%0D%0A%0D%0ALooking%20forward%20to%20hearing%20from%20you.)
 [![Website](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://dmsherazi.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/96878487473?text=Hello%20Dost%2C%0A%0AFound%20your%20GitHub%20profile%20%28github.com%2Fdmsherazi%29.%0A%0AI%20would%20like%20to%20discuss%3A%0A-%20%0A%0ALooking%20forward%20to%20connecting.)
-
----
-
-## ░▒▓ GITHUB ACTIVITY ▓▒░
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmsherazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=6366F1&text_color=FFFFFF&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmsherazi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=dmsherazi&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=6366F1&currStreakLabel=FFFFFF)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmsherazi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=4F46E5&point=FFFFFF&area=true&area_color=6366F1&title_color=FFFFFF)
-
-</div>
 
 ---
 
