@@ -241,13 +241,14 @@ I'm passionate about **IoT innovation**, **team building**, and **creating techn
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmsherazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=6366F1&text_color=FFFFFF&count_private=true&include_all_commits=true)
+<!-- GitHub cards (updated URLs and cache) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmsherazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=6366F1&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=7200)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmsherazi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&langs_count=8&exclude_repo=github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmsherazi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&langs_count=8&card_width=400&cache_seconds=7200)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=dmsherazi&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=6366F1&currStreakLabel=FFFFFF)
+![GitHub Streak](https://streak-stats.demolab.com?user=dmsherazi&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=6366F1&currStreakLabel=FFFFFF&date_format=j%20M%5B%20Y%5D&stroke=444444)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmsherazi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=4F46E5&point=FFFFFF&area=true&area_color=6366F1&title_color=FFFFFF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmsherazi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=4F46E5&point=FFFFFF&area=true&area_color=6366F1&title_color=FFFFFF&custom_title=Contribution%20Graph&radius=8)
 
 ---
 
